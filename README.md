@@ -11,6 +11,7 @@
 
 ## CODE BLUE 2023
 
-### Endpoint Security or End of Security? Exploiting Trend Micro Apex One (Also presented at HITCON CMT 2023)
-- [Introduction](https://hitcon.org/2023/CMT/en/agenda/f2fc0b54-9c9c-4160-aa51-0247cc121fc2/)
+### Endpoint Security or End of Security? Exploiting Trend Micro Apex One
+Also presented at [HITCON CMT 2023](https://hitcon.org/2023/CMT/en/agenda/f2fc0b54-9c9c-4160-aa51-0247cc121fc2/)
+- [Introduction](https://codeblue.jp/2023/en/talks/?content=talks_5)
 - [Slides](https://github.com/TrapaSecurity/Presentations/blob/master/Endpoint_Security_or_End_of_Security.pdf)
